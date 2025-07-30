@@ -1,4 +1,5 @@
-
+<?php
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -17,7 +18,7 @@
     </form>
 
     <div id="resultado" style="margin-top:20px;"></div>
-    <div id="map"></div>
+    <div id="map">a</div>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
