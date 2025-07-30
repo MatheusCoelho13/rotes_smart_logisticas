@@ -1,0 +1,9 @@
+<tipo>(<escopo>): <mensagem curta>
+
+# Corpo detalhado (opcional):
+# Explique o que foi alterado e o motivo da mudança.
+# Que problema foi resolvido ou que funcionalidade foi adicionada?
+
+# Footer (opcional):
+# - Referência de issues ou tickets, ex: Closes #123
+# - Informações extras relevantes ao commit
